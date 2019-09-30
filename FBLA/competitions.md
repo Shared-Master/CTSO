@@ -3,22 +3,21 @@
 | Competition                                    | 3D  | GDP | CSA | CSP | A+  | MO  | TO  | OT  | PT  | Pro  | Pre | RP  |
 | :---                                           | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:  | :-: | :-: |
 | [3-D Animation][3d]                            | X   | X   |     |     |     |     | Y   |     |     | PJ/P | Y   |     |
-| [Introduction to Information Technology][iit]  |     |     |     | X   |     |     |
-| [Computer Applications][ca]                    |     |     |     |     |     | X   |
-| [Coding & Programming][cp]                     |     | X   | X   | X   |     |     |
-| [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   |
-| [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     |
-| [Computer Problem Solving][cps]                |     |     |     |     | X   |     |
-| [Cyber Security][cs]                           |     |     |     |     |     |     |
-| [Database Design & Applications][dba]          |     |     |     |     |     |     |
-| [Help Desk][hd]                                |     |     |     |     | X   |     |
-| [Introduction to Information Technology][iit]  |     |     |     |     |     |     |
-| [Network Design][nd]                           |     |     |     |     |     |     |
-| [Networking Concepts][nc]                      |     |     |     |     |     |     |
-| [Mobile Application Development][mad]          |     |     |     | X   |     |     |
-| [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |
-| [Website Design][wd]                           |     |     |     |     |     |     |
-| [Word Processing][wp]                          |     |     |     |     |     | X   |
+| [Computer Applications][ca]                    |     |     |     |     |     | X   |     | X   | X   |      |     |     |
+| [Coding & Programming][cp]                     |     | X   | X   | X   |     |     |     |     |     |      |     |     |
+| [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   |     |     |     |      |     |     |
+| [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     |     |     |     |      |     |     |
+| [Computer Problem Solving][cps]                |     |     |     |     | X   |     |     |     |     |      |     |     |
+| [Cyber Security][cs]                           |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Database Design & Applications][dba]          |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Help Desk][hd]                                |     |     |     |     | X   |     |     |     |     |      |     |     |
+| [Introduction to Information Technology][iit]  |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Network Design][nd]                           |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Networking Concepts][nc]                      |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Mobile Application Development][mad]          |     |     |     | X   |     |     |     |     |     |      |     |     |
+| [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |     |     |     |      |     |     |
+| [Website Design][wd]                           |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Word Processing][wp]                          |     |     |     |     |     | X   |     |     |     |      |     |     |
 
 [3d]:  <https://www.fbla-pbl.org/competitive-event/3-d-animation/>
 [iit]: <https://www.fbla-pbl.org/competitive-event/introduction-to-information-technology/>
