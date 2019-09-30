@@ -1,4 +1,4 @@
-| Competition |   |   |   |   |   |   |
+| Competition | 3D | GDP | CSA | CSP | A+ | MO |
 | :--- | :---: | :---: | :---: | :---: | :---:  | :---: |
 | [3-D Animation](https://www.fbla-pbl.org/competitive-event/3-d-animation/) |   |   |   |   |   |   |
 | [Introduction to Information Technology](https://www.fbla-pbl.org/competitive-event/introduction-to-information-technology/) |   |   |   |   |   |   |
