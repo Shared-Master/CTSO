@@ -1,10 +1,10 @@
-| Competition                                    | 3D | GDP | CSA | CSP | A+ | MO |
-| :---                                           | :-: | :---: | :---: | :---: | :---:  | :---: |
-| [3-D Animation][3d]                            |   |   |   |   |   |   |
-| [Introduction to Information Technology][iit]  |   |   |   |   |   |   |
-| [Computer Applications][ca]                    |   |   |   |   |   |   |
-| [Coding & Programming][cp]                     |   |   |   |   |   |   |
-| [Community Service Project][csp]               |   |   |   |   |   |   |
+| Competition                                    | 3D  | GDP | CSA | CSP | A+  | MO  |
+| :---                                           | :-: | :-: | :-: | :-: | :-: | :-: |
+| [3-D Animation][3d]                            |     |     |     |     |     |     |
+| [Introduction to Information Technology][iit]  |     |     |     |     |     |     |
+| [Computer Applications][ca]                    |     |     |     |     |     |     |
+| [Coding & Programming][cp]                     |     |     |     |     |     |     |
+| [Community Service Project][csp]               |     |     |     |     |     |     |
 | [Computer Game & Simulation Programming][cgsp] |   |   |   |   |   |   |
 | [Computer Problem Solving][cps]                |   |   |   |   |   |   |
 | [Cyber Security][cs]                           |   |   |   |   |   |   |
