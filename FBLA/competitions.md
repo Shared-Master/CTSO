@@ -19,7 +19,7 @@
 [cps]: <https://www.fbla-pbl.org/competitive-event/computer-problem-solving/>
 [cs]: <https://www.fbla-pbl.org/competitive-event/cyber-security-fbla/>
 [dba]: <https://www.fbla-pbl.org/competitive-event/database-design-applications/>
-[]: <#>
+[ ]: <#>
 []: <>
 []: <>
 
