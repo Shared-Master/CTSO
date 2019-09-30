@@ -11,9 +11,12 @@
 | [Computer Problem Solving][cps]                |     |     |     |     | X   |     |
 | [Cyber Security][cs]                           |     |     |     |     |     |     |
 | [Database Design & Applications][dba]          |     |     |     |     |     |     |
-| [][]                  |     |     |     |     |     |     |
-| [][]                  |     |     |     |     |     |     |
-| [Spreadsheet Applications][sa]                 |     |     |     |     |     |     |
+| [Help Desk][hd]                                |     |     |     |     | X   |     |
+| [Introduction to Information Technology][iit]  |     |     |     |     |     |     |
+| [Network Design][nd]                           |     |     |     |     |     |     |
+| [Networking Concepts][]                        |     |     |     |     |     |     |
+| [Mobile Application Development][mad]          |     |     |     | X   |     |     |
+| [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |
 | [Website Design][wd]                           |     |     |     |     |     |     |
 | [Word Processing][wp]                          |     |     |     |     |     | X   |
 
@@ -26,9 +29,11 @@
 [cps]: <https://www.fbla-pbl.org/competitive-event/computer-problem-solving/>
 [cs]: <https://www.fbla-pbl.org/competitive-event/cyber-security-fbla/>
 [dba]: <https://www.fbla-pbl.org/competitive-event/database-design-applications/>
-[]: <>
-[]: <>
-[]: <>
+[hd]: <https://www.fbla-pbl.org/competitive-event/help-desk-fbla/>
+[iit]: <https://www.fbla-pbl.org/competitive-event/introduction-to-information-technology/>
+[nd]: <https://www.fbla-pbl.org/competitive-event/network-design-fbla/>
+[nc]: <https://www.fbla-pbl.org/competitive-event/networking-concepts-fbla/>
+[mad]: <https://www.fbla-pbl.org/competitive-event/mobile-application-development-fbla/>
 [sa]: <https://www.fbla-pbl.org/competitive-event/spreadsheet-applications/>
 [wd]: <https://www.fbla-pbl.org/competitive-event/website-design-fbla/>
 [wp]: <https://www.fbla-pbl.org/competitive-event/word-processing/>
