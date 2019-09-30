@@ -1,3 +1,5 @@
+# FBLA Competitions
+
 | Competition                                    | 3D  | GDP | CSA | CSP | A+  | MO  |
 | :---                                           | :-: | :-: | :-: | :-: | :-: | :-: |
 | [3-D Animation][3d]                            | X   | X   |     |     |     |     |
@@ -19,19 +21,3 @@
 [cps]: <https://www.fbla-pbl.org/competitive-event/computer-problem-solving/>
 [cs]: <https://www.fbla-pbl.org/competitive-event/cyber-security-fbla/>
 [dba]: <https://www.fbla-pbl.org/competitive-event/database-design-applications/>
-
-## 3D Animation
-
-## A+ Certification
-
-## AP CS A
-
-## AP CS Principles
-
-## Game Design & Programming
-
-## Microsoft Office
-
-## Web Design
-
-## General Interest
