@@ -8,9 +8,14 @@
 | [Coding & Programming][cp]                     |     | X   | X   | X   |     |     |
 | [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   |
 | [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     |
-| [Computer Problem Solving][cps]                |     |     |     |     |     |     |
+| [Computer Problem Solving][cps]                |     |     |     |     | X   |     |
 | [Cyber Security][cs]                           |     |     |     |     |     |     |
 | [Database Design & Applications][dba]          |     |     |     |     |     |     |
+| [][]                  |     |     |     |     |     |     |
+| [][]                  |     |     |     |     |     |     |
+| [Spreadsheet Applications][sa]                 |     |     |     |     |     |     |
+| [Website Design][wd]                           |     |     |     |     |     |     |
+| [Word Processing][wp]                          |     |     |     |     |     | X   |
 
 [3d]:  <https://www.fbla-pbl.org/competitive-event/3-d-animation/>
 [iit]: <https://www.fbla-pbl.org/competitive-event/introduction-to-information-technology/>
@@ -21,3 +26,9 @@
 [cps]: <https://www.fbla-pbl.org/competitive-event/computer-problem-solving/>
 [cs]: <https://www.fbla-pbl.org/competitive-event/cyber-security-fbla/>
 [dba]: <https://www.fbla-pbl.org/competitive-event/database-design-applications/>
+[]: <>
+[]: <>
+[]: <>
+[sa]: <https://www.fbla-pbl.org/competitive-event/spreadsheet-applications/>
+[wd]: <https://www.fbla-pbl.org/competitive-event/website-design-fbla/>
+[wp]: <https://www.fbla-pbl.org/competitive-event/word-processing/>
