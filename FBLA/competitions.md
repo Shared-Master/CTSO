@@ -14,7 +14,7 @@
 | [Help Desk][hd]                                |     |     |     |     | X   |     |
 | [Introduction to Information Technology][iit]  |     |     |     |     |     |     |
 | [Network Design][nd]                           |     |     |     |     |     |     |
-| [Networking Concepts][]                        |     |     |     |     |     |     |
+| [Networking Concepts][nc]                      |     |     |     |     |     |     |
 | [Mobile Application Development][mad]          |     |     |     | X   |     |     |
 | [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |
 | [Website Design][wd]                           |     |     |     |     |     |     |
