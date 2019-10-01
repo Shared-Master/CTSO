@@ -3,18 +3,18 @@
 | Competition                                    | 3D  | GDP | CSA | CSP | A+  | MO  | TO  | OT  | PT  | Pro  | Pre | RP  |
 | :---                                           | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:  | :-: | :-: |
 | [3-D Animation][3d]                            | X   | X   |     |     |     |     | Y   |     |     | PJ/P | Y   |     |
-| [Computer Applications][ca]                    |     |     |     |     |     | X   |     | X   | X   |      |     |     |
 | [Coding & Programming][cp]                     |     | X   | X   | X   |     |     |     |     |     |      |     |     |
 | [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   | C   |     |     |      |     |     |
+| [Computer Applications][ca]                    |     |     |     |     |     | X   |     | X   | X   |      |     |     |
 | [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     | Y   |     |     |      |     |     |
 | [Computer Problem Solving][cps]                |     |     |     |     | X   |     |     | X   |     |      |     |     |
 | [Cyber Security][cs]                           |     |     |     |     |     |     |     |     |     |      |     |     |
 | [Database Design & Applications][dba]          |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Help Desk][hd]                                |     |     |     |     | X   |     |     |     |     |      |     |     |
 | [Introduction to Information Technology][iit]  |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Mobile Application Development][mad]          |     |     |     | X   |     |     | Y   |     |     |      |     |     |
 | [Network Design][nd]                           |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Networking Concepts][nc]                      |     |     |     |     |     |     |     |     |     |      |     |     |
-| [Mobile Application Development][mad]          |     |     |     | X   |     |     | Y   |     |     |      |     |     |
 | [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |     |     |     |      |     |     |
 | [Website Design][wd]                           |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Word Processing][wp]                          |     |     |     |     |     | X   |     |     |     |      |     |     |
