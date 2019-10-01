@@ -5,18 +5,18 @@
 | [3-D Animation][3d]                            | X   | X   |     |     |     |     | Y   |     |     | PJ/P | Y   |     |
 | [Computer Applications][ca]                    |     |     |     |     |     | X   |     | X   | X   |      |     |     |
 | [Coding & Programming][cp]                     |     | X   | X   | X   |     |     |     |     |     |      |     |     |
-| [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   |     |     |     |      |     |     |
-| [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     |     |     |     |      |     |     |
-| [Computer Problem Solving][cps]                |     |     |     |     | X   |     |     |     |     |      |     |     |
+| [Community Service Project][csp]               | X   | X   | X   | X   | X   | X   | C   |     |     |      |     |     |
+| [Computer Game & Simulation Programming][cgsp] |     | X   |     |     |     |     | Y   |     |     |      |     |     |
+| [Computer Problem Solving][cps]                |     |     |     |     | X   |     |     | X   |     |      |     |     |
 | [Cyber Security][cs]                           |     |     |     |     |     |     |     |     |     |      |     |     |
-| [Database Design & Applications][dba]          |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Database Design & Applications][dba]          |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Help Desk][hd]                                |     |     |     |     | X   |     |     |     |     |      |     |     |
 | [Introduction to Information Technology][iit]  |     |     |     |     |     |     |     |     |     |      |     |     |
-| [Network Design][nd]                           |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Network Design][nd]                           |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Networking Concepts][nc]                      |     |     |     |     |     |     |     |     |     |      |     |     |
-| [Mobile Application Development][mad]          |     |     |     | X   |     |     |     |     |     |      |     |     |
+| [Mobile Application Development][mad]          |     |     |     | X   |     |     | Y   |     |     |      |     |     |
 | [Spreadsheet Applications][sa]                 |     |     |     |     |     | X   |     |     |     |      |     |     |
-| [Website Design][wd]                           |     |     |     |     |     |     |     |     |     |      |     |     |
+| [Website Design][wd]                           |     |     |     |     |     |     | Y   |     |     |      |     |     |
 | [Word Processing][wp]                          |     |     |     |     |     | X   |     |     |     |      |     |     |
 
 [3d]:  <https://www.fbla-pbl.org/competitive-event/3-d-animation/>
