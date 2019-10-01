@@ -1,5 +1,7 @@
 # FBLA Competitions
 
+Summarized from the [FBLA Competitive Events](https://www.fbla-pbl.org/fbla/competitive-events/) list.
+
 | Competition                                    | 3D  | GDP | CSA | CSP | A+  | MO  | TO  | OT  | PT  | Pro  | Pre | RP  |
 | :---                                           | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:  | :-: | :-: |
 | [3-D Animation][3d]                            | X   | X   |     |     |     |     | Y   |     |     | PJ/P | Y   |     |
